@@ -1,0 +1,52 @@
+[
+    {
+      "Genre": "Fiction",
+      "Title": "The Mystery of the Hidden Library",
+      "Author": "Jane Doe"
+    },
+    {
+      "Genre": "Science Fiction",
+      "Title": "Galactic Adventures: Beyond the Stars",
+      "Author": "John Smith"
+    },
+    {
+      "Genre": "Mystery",
+      "Title": "Midnight Secrets",
+      "Author": "Alice Johnson"
+    },
+    {
+      "Genre": "Fantasy",
+      "Title": "Realm of Enchantment",
+      "Author": "Bob Williams"
+    },
+    {
+      "Genre": "Non-Fiction",
+      "Title": "Exploring the Cosmos",
+      "Author": "Eva Brown"
+    },
+    {
+      "Genre": "Romance",
+      "Title": "Love in Bloom",
+      "Author": "Michael Davis"
+    },
+    {
+      "Genre": "Thriller",
+      "Title": "Twists of Fate",
+      "Author": "Sophie Miller"
+    },
+    {
+      "Genre": "Historical Fiction",
+      "Title": "Echoes of the Past",
+      "Author": "Daniel White"
+    },
+    {
+      "Genre": "Adventure",
+      "Title": "Quest for the Lost City",
+      "Author": "Emily Robinson"
+    },
+    {
+      "Genre": "Biography",
+      "Title": "Journey of a Visionary",
+      "Author": "Andrew Taylor"
+    }
+]
