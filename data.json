@@ -1,0 +1,22 @@
+[
+    {"Category": "Technology", "Question": "What is AI?", "Answer": "Artificial Intelligence is the simulation of human intelligence in machines."},
+    {"Category": "Travel", "Question": "Best vacation spots?", "Answer": "Explore beautiful beaches, historical landmarks, and vibrant cities."},
+    {"Category": "Recipe", "Question": "How to make pizza?", "Answer": "Mix flour, yeast, water; add toppings and bake for a delicious homemade pizza."},
+    {"Category": "Space", "Question": "What is a black hole?", "Answer": "A region in space where gravity is so strong that nothing, not even light, can escape."},
+    {"Category": "Movie", "Question": "Favorite film?", "Answer": "Inception - a mind-bending thriller directed by Christopher Nolan."},
+    {"Category": "Health", "Question": "Benefits of exercise?", "Answer": "Improves cardiovascular health, boosts mood, and enhances overall well-being."},
+    {"Category": "History", "Question": "World War II", "Answer": "A global conflict from 1939 to 1945, involving most of the world's nations."},
+    {"Category": "Science", "Question": "What is DNA?", "Answer": "Deoxyribonucleic acid, a molecule that carries most of the genetic instructions for the development and functioning of all known living organisms."},
+    {"Category": "Cuisine", "Question": "Sushi varieties", "Answer": "Nigiri, sashimi, maki - explore the diverse and delicious world of Japanese sushi."},
+    {"Category": "Art", "Question": "Famous painters", "Answer": "Leonardo da Vinci, Vincent van Gogh, and Pablo Picasso are iconic figures in the art world."},
+    {"Category": "Music", "Question": "Favorite genre?", "Answer": "Rock music - a genre with a rich history and diverse sub-genres."},
+    {"Category": "Finance", "Question": "Investing tips", "Answer": "Diversify your portfolio, stay informed, and invest for the long term."},
+    {"Category": "Pets", "Question": "Popular dog breeds", "Answer": "Labrador Retriever, German Shepherd, and Golden Retriever are among the most loved dog breeds."},
+    {"Category": "Language", "Question": "Learn a new language", "Answer": "Immerse yourself in the culture, practice regularly, and use language-learning apps."},
+    {"Category": "Fashion", "Question": "Fashion trends", "Answer": "Explore the latest styles, from retro vibes to futuristic fashion."},
+    {"Category": "Environment", "Question": "Reduce carbon footprint", "Answer": "Use energy-efficient appliances, carpool, and support sustainable products."},
+    {"Category": "Sports", "Question": "Famous soccer players", "Answer": "Lionel Messi, Cristiano Ronaldo, and Neymar are among the greatest footballers."},
+    {"Category": "Science Fiction", "Question": "Best sci-fi novels", "Answer": "Dune, Neuromancer, and Ender's Game are classic science fiction reads."},
+    {"Category": "Fitness", "Question": "Effective workout routines", "Answer": "Mix cardio, strength training, and flexibility exercises for a well-rounded fitness routine."},
+    {"Category": "Gaming", "Question": "Popular video games", "Answer": "Explore diverse gaming genres, from action-adventure to simulation."}
+]
